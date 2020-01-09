@@ -2,62 +2,101 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="078af8b4-e535-4bed-9be9-971c15da9a95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/FliterOfEmail.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/NB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/NewsClassfication.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/ham/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/ham/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/ham/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/ham/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/ham/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/ham/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/ham/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/ham/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/ham/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/ham/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/ham/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/ham/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/ham/20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/ham/21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/ham/22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/ham/23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/ham/24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/ham/25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/ham/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/ham/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/ham/5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/ham/6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/ham/7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/ham/8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/ham/9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/spam/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/spam/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/spam/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/spam/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/spam/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/spam/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/spam/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/spam/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/spam/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/spam/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/spam/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/spam/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/spam/20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/spam/21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/spam/22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/spam/23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/spam/24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/spam/25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/spam/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/spam/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/spam/5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/spam/6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/spam/7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/spam/8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/email/spam/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/ClassList.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000008/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000008/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000008/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000008/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000008/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000008/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000008/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000008/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000008/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000008/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000010/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000010/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000010/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000010/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000010/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000010/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000010/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000010/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000010/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000010/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000013/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000013/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000013/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000013/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000013/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000013/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000013/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000013/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000013/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000013/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000014/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000014/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000014/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000014/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000014/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000014/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000014/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000014/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000014/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000014/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000016/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000016/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000016/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000016/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000016/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000016/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000016/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000016/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000016/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000016/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000020/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000020/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000020/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000020/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000020/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000020/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000020/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000020/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000020/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000020/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000022/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000022/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000022/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000022/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000022/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000022/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000022/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000022/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000022/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000022/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000023/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000023/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000023/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000023/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000023/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000023/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000023/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000023/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000023/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000023/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000024/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000024/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000024/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000024/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000024/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000024/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000024/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000024/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000024/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/SogouC/Sample/C000024/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/stopwords_cn.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mlLearning/decisionTree/Sklearn_DT.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mlLearning/decisionTree/Sklearn_DT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/NB.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/NB.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/NewsClassfication.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mlLearning/NaiveBayes/NewsClassfication.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/recommendation.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/recommendation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +136,17 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\pyproject\new\src\mlLearning\NaiveBayes" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\pyproject\new\src\mlLearning\NaiveBayes" />
       <recent name="E:\pyproject\new\src\mlLearning\decisionTree" />
@@ -106,11 +155,14 @@
       <recent name="E:\pyproject\new\src\mlLearning" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.FliterOfEmail">
+  <component name="RunManager" selected="Python.NewsClassfication">
     <configuration name="FliterOfEmail" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="new" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/mlLearning/NaiveBayes" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -130,6 +182,9 @@
       <module name="new" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/mlLearning/NaiveBayes" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -137,6 +192,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="E:\pyproject\new\src\mlLearning\NaiveBayes\NB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="NewsClassfication" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="new" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/mlLearning/NaiveBayes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/mlLearning/NaiveBayes/NewsClassfication.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,28 +266,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decisionTree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="new" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/mlLearning/decisionTree" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/mlLearning/decisionTree/decisionTree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="pyproject" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="new" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -237,6 +292,9 @@
       <module name="new" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -254,19 +312,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.pyproject" />
-      <item itemvalue="Python.decisionTree" />
       <item itemvalue="Python.Sklearn_DT" />
       <item itemvalue="Python.recommendation" />
       <item itemvalue="Python.NB" />
       <item itemvalue="Python.FliterOfEmail" />
+      <item itemvalue="Python.NewsClassfication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.FliterOfEmail" />
+        <item itemvalue="Python.NewsClassfication" />
         <item itemvalue="Python.recommendation" />
+        <item itemvalue="Python.FliterOfEmail" />
         <item itemvalue="Python.NB" />
         <item itemvalue="Python.Sklearn_DT" />
-        <item itemvalue="Python.decisionTree" />
       </list>
     </recent_temporary>
   </component>
@@ -302,70 +360,90 @@
       <workItem from="1578204976723" duration="3201000" />
       <workItem from="1578300088417" duration="803000" />
       <workItem from="1578301419652" duration="1145000" />
-      <workItem from="1578393073016" duration="7347000" />
+      <workItem from="1578393073016" duration="9017000" />
+      <workItem from="1578484921397" duration="450000" />
+      <workItem from="1578487403277" duration="3933000" />
+      <workItem from="1578575066703" duration="2988000" />
     </task>
+    <task id="LOCAL-00001" summary="Naive Bayes">
+      <created>1578400903241</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578400903241</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Naive Bayes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Naive Bayes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577274662470">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577274662470" />
+    <state x="555" y="14" key="CommitChangelistDialog2" timestamp="1578400895409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578400895409" />
     <state x="548" y="170" key="FileChooserDialogImpl" timestamp="1577614927908">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577614927908" />
-    <state width="1496" height="142" key="GridCell.Tab.0.bottom" timestamp="1577699546436">
+    <state width="1137" height="254" key="GridCell.Tab.0.bottom" timestamp="1578578113320">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1496" height="142" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577699546436" />
-    <state width="1496" height="142" key="GridCell.Tab.0.center" timestamp="1577699546436">
+    <state width="1137" height="254" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578578113320" />
+    <state width="1137" height="254" key="GridCell.Tab.0.center" timestamp="1578578113320">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1496" height="142" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577699546436" />
-    <state width="1496" height="142" key="GridCell.Tab.0.left" timestamp="1577699546436">
+    <state width="1137" height="254" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578578113320" />
+    <state width="1137" height="254" key="GridCell.Tab.0.left" timestamp="1578578113320">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1496" height="142" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577699546436" />
-    <state width="1496" height="142" key="GridCell.Tab.0.right" timestamp="1577699546436">
+    <state width="1137" height="254" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578578113320" />
+    <state width="1137" height="254" key="GridCell.Tab.0.right" timestamp="1578578113320">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1496" height="142" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577699546436" />
-    <state width="1496" height="142" key="GridCell.Tab.1.bottom" timestamp="1577699546436">
+    <state width="1137" height="254" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578578113320" />
+    <state width="1137" height="254" key="GridCell.Tab.1.bottom" timestamp="1578578113321">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1496" height="142" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577699546436" />
-    <state width="1496" height="142" key="GridCell.Tab.1.center" timestamp="1577699546436">
+    <state width="1137" height="254" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578578113321" />
+    <state width="1137" height="254" key="GridCell.Tab.1.center" timestamp="1578578113320">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1496" height="142" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1577699546436" />
-    <state width="1496" height="142" key="GridCell.Tab.1.left" timestamp="1577699546436">
+    <state width="1137" height="254" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1578578113320" />
+    <state width="1137" height="254" key="GridCell.Tab.1.left" timestamp="1578578113320">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1496" height="142" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1577699546436" />
-    <state width="1496" height="142" key="GridCell.Tab.1.right" timestamp="1577699546436">
+    <state width="1137" height="254" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1578578113320" />
+    <state width="1137" height="254" key="GridCell.Tab.1.right" timestamp="1578578113320">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1496" height="142" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1577699546436" />
-    <state x="443" y="57" key="SettingsEditor" timestamp="1578399909772">
+    <state width="1137" height="254" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578578113320" />
+    <state x="443" y="57" key="SettingsEditor" timestamp="1578401561427">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="443" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578399909772" />
+    <state x="443" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578401561427" />
     <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1577276151746">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577276151746" />
-    <state x="446" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1578395180990">
+    <state x="446" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1578576055687">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="446" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578395180990" />
+    <state x="446" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578576055687" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/new$logistic.coverage" NAME="logistic Coverage Results" MODIFIED="1577515185297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/mlLearning" />
     <SUITE FILE_PATH="coverage/new$recommendation.coverage" NAME="recommendation Coverage Results" MODIFIED="1577281061943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/new$NewsClassfication.coverage" NAME="NewsClassfication Coverage Results" MODIFIED="1578577980892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/mlLearning/NaiveBayes" />
     <SUITE FILE_PATH="coverage/new$KNNHallen.coverage" NAME="KNNHallen Coverage Results" MODIFIED="1577694791141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/mlLearning/KNN" />
     <SUITE FILE_PATH="coverage/new$descent.coverage" NAME="descent Coverage Results" MODIFIED="1577518586349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/mlLearning/gradientDescent" />
     <SUITE FILE_PATH="coverage/new$pyproject.coverage" NAME="pyproject Coverage Results" MODIFIED="1577274680224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/" />
