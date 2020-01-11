@@ -5,6 +5,8 @@
 import jieba  #中文分词工具
 import os
 import random
+from sklearn.naive_bayes import MultinomialNB
+import numpy as np
 '''
  folder_path:'./SogouC/Sample'
  数据预处理
@@ -64,6 +66,7 @@ def MakeWordsSet(words_file):
             if len(word) > 0:                                    #有文本，则添加到words_set中
                 words_set.add(word)
     return words_set
+
 '''
  1.生成新闻词汇向量
  2.去除词频最高的前100个词
@@ -89,8 +92,42 @@ def loadData():
     all_words_list, train_data_list, test_data_list, train_class_list, test_class_list=TextProcessing("./SogouC/Sample")
     stopwords_file = './stopwords_cn.txt'
     stopwords_set = MakeWordsSet(stopwords_file)
-    feature_words = words_dict(all_words_list, 100, stopwords_set)
+    feature_words = words_dict(all_words_list, 200, stopwords_set) # 获得具有分类效果的词汇表
     return train_data_list, test_data_list, train_class_list, test_class_list,feature_words
 
+'''
+函数说明:根据feature_words将文本向量化
+Parameters:
+    train_data_list - 训练集
+    test_data_list - 测试集
+    feature_words - 特征集
+Returns:
+    train_feature_list - 训练集向量化列表
+    test_feature_list - 测试集向量化列表
+'''
+def TextFeatures(train_data_list, test_data_list,feature_words):
+    def text_features(text,feature_words):
+        text_words=set()
+        features=[1 if word in text else 0   for word in feature_words]
+        return features
+    train_feature_list=[text_features(text,feature_words) for text in train_data_list]
+    test_feature_list=[text_features(text,feature_words)   for text in test_data_list]
+    return train_feature_list,test_feature_list
+
+'''
+ 使用Sklearn构造MultinomialNB(多项式朴素贝叶斯分类器)
+'''
+def skLearn_NB(Testextpath=""):
+    train_data_list, test_data_list, train_class_list, test_class_list, feature_words=loadData();
+    train_feature_list, test_feature_list=TextFeatures(train_data_list,test_data_list,feature_words)
+    classifier=MultinomialNB().fit(train_feature_list,train_class_list)
+
+    Tpredict_proba=classifier.predict(np.array(test_feature_list[1]).reshape(1,-1)) #测试代码
+    print(Tpredict_proba)
+    return classifier
+    #test_accuracy=classifier.score(test_feature_list,test_class_list)
+    #print(test_accuracy)
+
+
 if __name__ == '__main__':
-    loadData()
+    skLearn_NB()
