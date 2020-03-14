@@ -55,8 +55,5 @@ train=optmizer.minimize
 
 
 
-
-
-
 if __name__ == '__main__':
    ratings_df.tail();
