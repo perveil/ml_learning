@@ -2,21 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="078af8b4-e535-4bed-9be9-971c15da9a95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/PIL测试.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter02.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter02/bp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter02/multipleLayers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter02/tensorflowWay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter03/ElasticNetRegression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter03/linearRegressionWithInverseMatrix.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter03/logisticRegressionOfBirthweight.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter03/tensorflowWayOflR.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/dataSet/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/number/keras_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/准考证号.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/PIL/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/PIL/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/PIL/PILAPIlearning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/PIL/PILlearning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter04/KernelSVMOfNonlinearData.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter04/SoftMarginSVMByTensorflow.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter01/workwithMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter01/workwithMatrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/number/numberde.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/number/numberde.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter03/ElasticNetRegression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter03/ElasticNetRegression.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -36,11 +29,14 @@
   </component>
   <component name="JupyterTrust" id="f0a47e0d-e285-4d38-a084-2d3ebb5add5a">
     <option name="files">
+      <option value="src\mlLearning\PIL\PILAPIlearning.ipynb" />
       <option value="src\mlLearning\tensorflowLearning\charpter02.ipynb" />
       <option value="src\mlLearning\tensorflowLearning\charpter03\ElasticNetRegression.ipynb" />
       <option value="src\mlLearning\tensorflowLearning\charpter03\linearRegressionWithInverseMatrix.ipynb" />
       <option value="src\mlLearning\tensorflowLearning\charpter03\logisticRegressionOfBirthweight.ipynb" />
       <option value="src\mlLearning\tensorflowLearning\charpter03\tensorflowWayOflR.ipynb" />
+      <option value="src\mlLearning\tensorflowLearning\charpter04\KernelSVMOfNonlinearData.ipynb" />
+      <option value="src\mlLearning\tensorflowLearning\charpter04\SoftMarginSVMByTensorflow.ipynb" />
     </option>
   </component>
   <component name="ProjectId" id="1VTPMpZO0kD3cVbRHGwShVHSdeE" />
@@ -74,16 +70,17 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\ml_learning\src\mlLearning\PIL" />
+      <recent name="C:\Users\Administrator\PycharmProjects\ml_learning\src\mlLearning" />
+      <recent name="E:\pyproject\new\src\mlLearning\NaiveBayes" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\pyproject\new\src\mlLearning\NaiveBayes\SogouC" />
       <recent name="E:\pyproject\new\src\mlLearning\NaiveBayes" />
       <recent name="E:\pyproject\new\src\mlLearning\decisionTree" />
       <recent name="E:\pyproject\new\src\mlLearning\KNN" />
       <recent name="E:\pyproject\new\src\mlLearning\recommedation" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\PycharmProjects\ml_learning\src\mlLearning" />
-      <recent name="E:\pyproject\new\src\mlLearning\NaiveBayes" />
     </key>
   </component>
   <component name="RunManager" selected="Python.bp">
@@ -324,7 +321,8 @@
       <workItem from="1585215442832" duration="2093000" />
       <workItem from="1585227157417" duration="817000" />
       <workItem from="1585301501168" duration="7128000" />
-      <workItem from="1585444678549" duration="5166000" />
+      <workItem from="1585444678549" duration="5252000" />
+      <workItem from="1585473483447" duration="6557000" />
     </task>
     <task id="LOCAL-00001" summary="Naive Bayes">
       <created>1578400903241</created>
@@ -354,7 +352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584874630203</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="3/29">
+      <created>1585450004818</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585450004818</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,7 +383,8 @@
     <MESSAGE value="Naive Bayes NewsClassfication LoadData" />
     <MESSAGE value="3/14" />
     <MESSAGE value="3/22" />
-    <option name="LAST_COMMIT_MESSAGE" value="3/22" />
+    <MESSAGE value="3/29" />
+    <option name="LAST_COMMIT_MESSAGE" value="3/29" />
   </component>
   <component name="WindowStateProjectService">
     <state x="330" y="64" key="#Notifications" timestamp="1582884985288">
@@ -389,34 +395,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577274662470" />
-    <state x="555" y="0" key="CommitChangelistDialog2" timestamp="1584874629094">
+    <state x="555" y="0" key="CommitChangelistDialog2" timestamp="1585491403381">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="555" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1584191866401" />
-    <state x="555" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584874629094" />
+    <state x="555" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585450003694" />
+    <state x="555" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585491403381" />
     <state x="548" y="170" key="FileChooserDialogImpl" timestamp="1584702507909">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584702507909" />
-    <state width="1475" height="178" key="GridCell.Tab.0.bottom" timestamp="1585444778590">
+    <state width="1150" height="225" key="GridCell.Tab.0.bottom" timestamp="1585477015457">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1376" height="132" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585314413115" />
+    <state width="1150" height="225" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585477015457" />
     <state width="1475" height="178" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585444778590" />
-    <state width="1475" height="178" key="GridCell.Tab.0.center" timestamp="1585444778589">
+    <state width="1150" height="225" key="GridCell.Tab.0.center" timestamp="1585477015457">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1376" height="132" key="GridCell.Tab.0.center/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585314413114" />
+    <state width="1150" height="225" key="GridCell.Tab.0.center/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585477015457" />
     <state width="1475" height="178" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585444778589" />
-    <state width="1475" height="178" key="GridCell.Tab.0.left" timestamp="1585444778589">
+    <state width="1150" height="225" key="GridCell.Tab.0.left" timestamp="1585477015457">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1376" height="132" key="GridCell.Tab.0.left/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585314413114" />
+    <state width="1150" height="225" key="GridCell.Tab.0.left/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585477015457" />
     <state width="1475" height="178" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585444778589" />
-    <state width="1475" height="178" key="GridCell.Tab.0.right" timestamp="1585444778590">
+    <state width="1150" height="225" key="GridCell.Tab.0.right" timestamp="1585477015457">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1376" height="132" key="GridCell.Tab.0.right/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585314413114" />
+    <state width="1150" height="225" key="GridCell.Tab.0.right/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585477015457" />
     <state width="1475" height="178" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585444778590" />
     <state width="1475" height="243" key="GridCell.Tab.1.bottom" timestamp="1584805716780">
       <screen x="0" y="0" width="1536" height="824" />
@@ -455,10 +461,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="318" y="205" width="715" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1583031452594" />
-    <state x="446" y="146" width="840" height="678" key="search.everywhere.popup" timestamp="1585303269390">
+    <state x="446" y="146" width="840" height="678" key="search.everywhere.popup" timestamp="1585477135266">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="446" y="146" width="840" height="678" key="search.everywhere.popup/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585303269390" />
+    <state x="446" y="146" width="840" height="678" key="search.everywhere.popup/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585477135266" />
     <state x="446" y="146" width="840" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585140384511" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
