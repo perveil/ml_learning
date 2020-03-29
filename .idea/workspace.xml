@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="078af8b4-e535-4bed-9be9-971c15da9a95" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/PIL测试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter02.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter02/bp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter02/multipleLayers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter02/tensorflowWay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter03/ElasticNetRegression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter03/linearRegressionWithInverseMatrix.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter03/logisticRegressionOfBirthweight.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter03/tensorflowWayOflR.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/dataSet/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/number/keras_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/准考证号.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter01/workwithMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter01/workwithMatrix.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/number/numberde.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/number/numberde.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
@@ -20,7 +34,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="f0a47e0d-e285-4d38-a084-2d3ebb5add5a" />
+  <component name="JupyterTrust" id="f0a47e0d-e285-4d38-a084-2d3ebb5add5a">
+    <option name="files">
+      <option value="src\mlLearning\tensorflowLearning\charpter02.ipynb" />
+      <option value="src\mlLearning\tensorflowLearning\charpter03\ElasticNetRegression.ipynb" />
+      <option value="src\mlLearning\tensorflowLearning\charpter03\linearRegressionWithInverseMatrix.ipynb" />
+      <option value="src\mlLearning\tensorflowLearning\charpter03\logisticRegressionOfBirthweight.ipynb" />
+      <option value="src\mlLearning\tensorflowLearning\charpter03\tensorflowWayOflR.ipynb" />
+    </option>
+  </component>
   <component name="ProjectId" id="1VTPMpZO0kD3cVbRHGwShVHSdeE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -52,9 +74,6 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\pyproject\new\src\mlLearning\NaiveBayes" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\pyproject\new\src\mlLearning\NaiveBayes\SogouC" />
       <recent name="E:\pyproject\new\src\mlLearning\NaiveBayes" />
@@ -62,30 +81,12 @@
       <recent name="E:\pyproject\new\src\mlLearning\KNN" />
       <recent name="E:\pyproject\new\src\mlLearning\recommedation" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\ml_learning\src\mlLearning" />
+      <recent name="E:\pyproject\new\src\mlLearning\NaiveBayes" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.numberde">
-    <configuration name="NB (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="new" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/mlLearning/NaiveBayes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/mlLearning/NaiveBayes/NB.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.bp">
     <configuration name="NNLM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="new" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,28 +109,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SVDofred" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="new" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/mlLearning/recommedation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/mlLearning/recommedation/SVDofred.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="new" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,6 +123,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="new" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter02/bp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multipleLayers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="new" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter02/multipleLayers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,19 +243,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.pyproject" />
-      <item itemvalue="Python.NB (1)" />
       <item itemvalue="Python.workwithMatrix" />
       <item itemvalue="Python.numberde" />
-      <item itemvalue="Python.SVDofred" />
       <item itemvalue="Python.NNLM" />
+      <item itemvalue="Python.multipleLayers" />
+      <item itemvalue="Python.bp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bp" />
+        <item itemvalue="Python.multipleLayers" />
+        <item itemvalue="Python.workwithMatrix" />
         <item itemvalue="Python.numberde" />
         <item itemvalue="Python.NNLM" />
-        <item itemvalue="Python.SVDofred" />
-        <item itemvalue="Python.workwithMatrix" />
-        <item itemvalue="Python.NB (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +317,14 @@
       <workItem from="1584702385703" duration="2989000" />
       <workItem from="1584710168004" duration="1407000" />
       <workItem from="1584788324020" duration="8237000" />
-      <workItem from="1584849283829" duration="1513000" />
+      <workItem from="1584849283829" duration="2804000" />
+      <workItem from="1585037656753" duration="5547000" />
+      <workItem from="1585140100766" duration="4546000" />
+      <workItem from="1585145671090" duration="273000" />
+      <workItem from="1585215442832" duration="2093000" />
+      <workItem from="1585227157417" duration="817000" />
+      <workItem from="1585301501168" duration="7128000" />
+      <workItem from="1585444678549" duration="5166000" />
     </task>
     <task id="LOCAL-00001" summary="Naive Bayes">
       <created>1578400903241</created>
@@ -317,17 +347,38 @@
       <option name="project" value="LOCAL" />
       <updated>1584191867703</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3/22">
+      <created>1584874630203</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584874630203</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Naive Bayes" />
     <MESSAGE value="Naive Bayes NewsClassfication LoadData" />
     <MESSAGE value="3/14" />
-    <option name="LAST_COMMIT_MESSAGE" value="3/14" />
+    <MESSAGE value="3/22" />
+    <option name="LAST_COMMIT_MESSAGE" value="3/22" />
   </component>
   <component name="WindowStateProjectService">
     <state x="330" y="64" key="#Notifications" timestamp="1582884985288">
@@ -338,31 +389,35 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577274662470" />
-    <state x="555" y="0" key="CommitChangelistDialog2" timestamp="1584191866401">
+    <state x="555" y="0" key="CommitChangelistDialog2" timestamp="1584874629094">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="555" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1584191866401" />
-    <state x="555" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578578233488" />
+    <state x="555" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584874629094" />
     <state x="548" y="170" key="FileChooserDialogImpl" timestamp="1584702507909">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584702507909" />
-    <state width="1475" height="243" key="GridCell.Tab.0.bottom" timestamp="1584805716780">
+    <state width="1475" height="178" key="GridCell.Tab.0.bottom" timestamp="1585444778590">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1475" height="243" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584805716780" />
-    <state width="1475" height="243" key="GridCell.Tab.0.center" timestamp="1584805716779">
+    <state width="1376" height="132" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585314413115" />
+    <state width="1475" height="178" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585444778590" />
+    <state width="1475" height="178" key="GridCell.Tab.0.center" timestamp="1585444778589">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1475" height="243" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584805716779" />
-    <state width="1475" height="243" key="GridCell.Tab.0.left" timestamp="1584805716779">
+    <state width="1376" height="132" key="GridCell.Tab.0.center/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585314413114" />
+    <state width="1475" height="178" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585444778589" />
+    <state width="1475" height="178" key="GridCell.Tab.0.left" timestamp="1585444778589">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1475" height="243" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584805716779" />
-    <state width="1475" height="243" key="GridCell.Tab.0.right" timestamp="1584805716779">
+    <state width="1376" height="132" key="GridCell.Tab.0.left/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585314413114" />
+    <state width="1475" height="178" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585444778589" />
+    <state width="1475" height="178" key="GridCell.Tab.0.right" timestamp="1585444778590">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1475" height="243" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584805716779" />
+    <state width="1376" height="132" key="GridCell.Tab.0.right/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585314413114" />
+    <state width="1475" height="178" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585444778590" />
     <state width="1475" height="243" key="GridCell.Tab.1.bottom" timestamp="1584805716780">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -379,11 +434,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1475" height="243" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584805716780" />
-    <state x="143" y="0" key="SettingsEditor" timestamp="1584874606126">
+    <state x="143" y="0" key="SettingsEditor" timestamp="1584874801983">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="143" y="0" key="SettingsEditor/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1584195704448" />
-    <state x="143" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584874606126" />
+    <state x="143" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584874801983" />
     <state x="481" y="149" key="Vcs.Push.Dialog.v2" timestamp="1578578259877">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -392,14 +447,19 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582782881659" />
+    <state x="0" y="0" width="906" height="824" key="find.popup" timestamp="1585227296554">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" width="906" height="824" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1585227296554" />
     <state x="318" y="205" width="715" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1583031452594">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="318" y="205" width="715" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1583031452594" />
-    <state x="446" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1578576055687">
+    <state x="446" y="146" width="840" height="678" key="search.everywhere.popup" timestamp="1585303269390">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="446" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578576055687" />
+    <state x="446" y="146" width="840" height="678" key="search.everywhere.popup/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585303269390" />
+    <state x="446" y="146" width="840" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585140384511" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/new$logistic.coverage" NAME="logistic Coverage Results" MODIFIED="1577515185297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/mlLearning" />
