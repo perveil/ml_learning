@@ -34,7 +34,6 @@ def KNN0(inx,dataSet,labels,k):
     return sortedClassCount[0][0]
 
 if __name__ == '__main__':
-    group, labels=createDataSet()
-    test=[60,20]
-    test_class=KNN0(test,group,labels,3);
-    print(test_class);
+    arr=np.array([[2,3],[4,5],[6,7]])
+    arr=np.reshape(arr,[2,-1])
+    print(arr)

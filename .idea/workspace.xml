@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="078af8b4-e535-4bed-9be9-971c15da9a95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter07/IFIDFofSpamClassification.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter07/NSkipGramNN.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter07/SpamORPamClassification.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter07/smsspamcollection.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter07/temp/rt-polarity.neg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter07/temp/rt-polarity.pos" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/movieRecommdationBaseTensorFlow/mldata/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/movieRecommdationBaseTensorFlow/mldata/movies.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/movieRecommdationBaseTensorFlow/mldata/ratings.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/movieRecommdationBaseTensorFlow/mldata/users.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/movieRecommdationBaseTensorFlow/moviecommender.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/chapter08/AdvancedCNN.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/chapter09/LSTMforShakespeare.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/chapter09/classifiPAMOrspamUsrRnn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter07/word2vec/word2VecModelUse.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mlLearning/PIL/PILlearning.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mlLearning/PIL/PILlearning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mlLearning/KNN/KNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mlLearning/KNN/KNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/number/numberde.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/chapter08/numberde.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +48,12 @@
   <component name="JupyterTrust" id="f0a47e0d-e285-4d38-a084-2d3ebb5add5a">
     <option name="files">
       <option value="src\mlLearning\PIL\PILAPIlearning.ipynb" />
+      <option value="src\mlLearning\movieRecommdationBaseTensorFlow\moviecommender.ipynb" />
       <option value="src\mlLearning\tensorflowLearning\chapter06\MultipleNN.ipynb" />
       <option value="src\mlLearning\tensorflowLearning\chapter06\implementNN.ipynb" />
+      <option value="src\mlLearning\tensorflowLearning\chapter08\AdvancedCNN.ipynb" />
+      <option value="src\mlLearning\tensorflowLearning\chapter09\LSTMforShakespeare.ipynb" />
+      <option value="src\mlLearning\tensorflowLearning\chapter09\classifiPAMOrspamUsrRnn.ipynb" />
       <option value="src\mlLearning\tensorflowLearning\charpter02.ipynb" />
       <option value="src\mlLearning\tensorflowLearning\charpter03\ElasticNetRegression.ipynb" />
       <option value="src\mlLearning\tensorflowLearning\charpter03\linearRegressionWithInverseMatrix.ipynb" />
@@ -56,6 +64,7 @@
       <option value="src\mlLearning\tensorflowLearning\charpter07\IFIDFofSpamClassification.ipynb" />
       <option value="src\mlLearning\tensorflowLearning\charpter07\NSkipGramNN.ipynb" />
       <option value="src\mlLearning\tensorflowLearning\charpter07\SpamORPamClassification.ipynb" />
+      <option value="src\mlLearning\tensorflowLearning\charpter07\word2vec\word2VecModelUse.ipynb" />
     </option>
   </component>
   <component name="ProjectId" id="1VTPMpZO0kD3cVbRHGwShVHSdeE" />
@@ -72,14 +81,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/charpter07/temp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/mlLearning/movieRecommdationBaseTensorFlow/mldata" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -90,25 +99,50 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\ml_learning\src\mlLearning\movieRecommdationBaseTensorFlow\mldata" />
+      <recent name="C:\Users\Administrator\PycharmProjects\ml_learning\src\mlLearning\tensorflowLearning\chapter08" />
       <recent name="C:\Users\Administrator\PycharmProjects\ml_learning\src\mlLearning\tensorflowLearning\charpter07\temp" />
       <recent name="C:\Users\Administrator\PycharmProjects\ml_learning\src\mlLearning\tensorflowLearning\charpter07" />
       <recent name="C:\Users\Administrator\PycharmProjects\ml_learning\src\mlLearning\PIL" />
-      <recent name="C:\Users\Administrator\PycharmProjects\ml_learning\src\mlLearning" />
-      <recent name="E:\pyproject\new\src\mlLearning\NaiveBayes" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\ml_learning\src\mlLearning\movieRecommdationBaseTensorFlow\mldata" />
       <recent name="C:\Users\Administrator\PycharmProjects\ml_learning\src\mlLearning\tensorflowLearning\charpter07\temp" />
       <recent name="E:\pyproject\new\src\mlLearning\NaiveBayes\SogouC" />
       <recent name="E:\pyproject\new\src\mlLearning\NaiveBayes" />
       <recent name="E:\pyproject\new\src\mlLearning\decisionTree" />
-      <recent name="E:\pyproject\new\src\mlLearning\KNN" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.PILlearning">
+  <component name="RunManager" selected="Python.KNN">
+    <configuration name="KNN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="new" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/mlLearning/KNN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/mlLearning/KNN/KNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="PILlearning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="new" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/mlLearning/PIL" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -190,28 +224,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="numberde" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="new" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/number" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/mlLearning/tensorflowLearning/number/numberde.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="pyproject" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="new" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -259,18 +271,18 @@
     <list>
       <item itemvalue="Python.pyproject" />
       <item itemvalue="Python.workwithMatrix" />
-      <item itemvalue="Python.numberde" />
       <item itemvalue="Python.multipleLayers" />
       <item itemvalue="Python.bp" />
       <item itemvalue="Python.PILlearning" />
+      <item itemvalue="Python.KNN" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.KNN" />
         <item itemvalue="Python.PILlearning" />
         <item itemvalue="Python.bp" />
         <item itemvalue="Python.multipleLayers" />
         <item itemvalue="Python.workwithMatrix" />
-        <item itemvalue="Python.numberde" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +356,13 @@
       <workItem from="1585624639277" duration="2833000" />
       <workItem from="1585727094687" duration="7556000" />
       <workItem from="1585816955689" duration="10671000" />
-      <workItem from="1585900558857" duration="14346000" />
+      <workItem from="1585900558857" duration="14779000" />
+      <workItem from="1586079171664" duration="8169000" />
+      <workItem from="1586142672754" duration="10476000" />
+      <workItem from="1586507421189" duration="131000" />
+      <workItem from="1586688247136" duration="8678000" />
+      <workItem from="1586763175293" duration="2504000" />
+      <workItem from="1586837412265" duration="11766000" />
     </task>
     <task id="LOCAL-00001" summary="Naive Bayes">
       <created>1578400903241</created>
@@ -395,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585737756842</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="4/3">
+      <created>1585920592057</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585920592057</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -421,29 +446,27 @@
     <MESSAGE value="3/22" />
     <MESSAGE value="3/29" />
     <MESSAGE value="4/1" />
-    <option name="LAST_COMMIT_MESSAGE" value="4/1" />
+    <MESSAGE value="4/3" />
+    <option name="LAST_COMMIT_MESSAGE" value="4/3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="330" y="64" key="#Notifications" timestamp="1582884985288">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="330" y="64" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1582884985288" />
-    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577274662470">
+    <state x="477" y="201" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586692723671">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577274662470" />
-    <state x="477" y="201" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585817774356">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="477" y="201" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585817774356" />
+    <state x="477" y="201" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1586692723671" />
+    <state x="477" y="201" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1586094506645" />
     <state x="0" y="107" key="#xdebugger.XInspectDialog" timestamp="1585905795781">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="107" key="#xdebugger.XInspectDialog/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585905795781" />
-    <state x="555" y="0" key="CommitChangelistDialog2" timestamp="1585737755801">
+    <state x="555" y="0" key="CommitChangelistDialog2" timestamp="1585920591067">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="555" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585737755801" />
+    <state x="555" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585920591067" />
     <state x="555" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585491403381" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1585905726743">
       <screen x="0" y="0" width="1536" height="824" />
@@ -453,55 +476,60 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584702507909" />
-    <state width="1475" height="224" key="GridCell.Tab.0.bottom" timestamp="1585911496172">
+    <state width="1152" height="198" key="GridCell.Tab.0.bottom" timestamp="1586850511047">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1475" height="224" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585911496172" />
-    <state width="1152" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585728098273" />
-    <state width="1475" height="224" key="GridCell.Tab.0.center" timestamp="1585911496172">
+    <state width="1152" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1586850511047" />
+    <state width="1156" height="176" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586095264109" />
+    <state width="1152" height="198" key="GridCell.Tab.0.center" timestamp="1586850511047">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1475" height="224" key="GridCell.Tab.0.center/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585911496172" />
-    <state width="1152" height="206" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585728098272" />
-    <state width="1475" height="224" key="GridCell.Tab.0.left" timestamp="1585911496172">
+    <state width="1152" height="198" key="GridCell.Tab.0.center/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1586850511047" />
+    <state width="1156" height="176" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586095264109" />
+    <state width="1152" height="198" key="GridCell.Tab.0.left" timestamp="1586850511042">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1475" height="224" key="GridCell.Tab.0.left/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585911496172" />
-    <state width="1152" height="206" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585728098272" />
-    <state width="1475" height="224" key="GridCell.Tab.0.right" timestamp="1585911496172">
+    <state width="1152" height="198" key="GridCell.Tab.0.left/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1586850511042" />
+    <state width="1156" height="176" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586095264108" />
+    <state width="1152" height="198" key="GridCell.Tab.0.right" timestamp="1586850511047">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1475" height="224" key="GridCell.Tab.0.right/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585911496172" />
-    <state width="1152" height="206" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585728098272" />
-    <state width="1475" height="224" key="GridCell.Tab.1.bottom" timestamp="1585911496172">
+    <state width="1152" height="198" key="GridCell.Tab.0.right/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1586850511047" />
+    <state width="1156" height="176" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586095264109" />
+    <state width="1475" height="224" key="GridCell.Tab.1.bottom" timestamp="1585920773099">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1475" height="224" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585911496172" />
+    <state width="1475" height="224" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585920773099" />
     <state width="1475" height="243" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584805716780" />
-    <state width="1475" height="224" key="GridCell.Tab.1.center" timestamp="1585911496172">
+    <state width="1475" height="224" key="GridCell.Tab.1.center" timestamp="1585920773099">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1475" height="224" key="GridCell.Tab.1.center/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585911496172" />
+    <state width="1475" height="224" key="GridCell.Tab.1.center/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585920773099" />
     <state width="1475" height="243" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584805716780" />
-    <state width="1475" height="224" key="GridCell.Tab.1.left" timestamp="1585911496172">
+    <state width="1475" height="224" key="GridCell.Tab.1.left" timestamp="1585920773099">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1475" height="224" key="GridCell.Tab.1.left/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585911496172" />
+    <state width="1475" height="224" key="GridCell.Tab.1.left/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585920773099" />
     <state width="1475" height="243" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584805716780" />
-    <state width="1475" height="224" key="GridCell.Tab.1.right" timestamp="1585911496172">
+    <state width="1475" height="224" key="GridCell.Tab.1.right" timestamp="1585920773099">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1475" height="224" key="GridCell.Tab.1.right/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585911496172" />
+    <state width="1475" height="224" key="GridCell.Tab.1.right/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585920773099" />
     <state width="1475" height="243" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584805716780" />
-    <state x="143" y="0" key="SettingsEditor" timestamp="1584874801983">
+    <state x="143" y="0" key="SettingsEditor" timestamp="1586080887236">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="143" y="0" key="SettingsEditor/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1584195704448" />
+    <state x="143" y="0" key="SettingsEditor/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1586080887236" />
     <state x="143" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584874801983" />
-    <state x="481" y="149" key="Vcs.Push.Dialog.v2" timestamp="1578578259877">
+    <state x="481" y="149" key="Vcs.Push.Dialog.v2" timestamp="1585920594989">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="481" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585920594989" />
     <state x="481" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1578578259877" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1586860935332">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1586860935332" />
     <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1582782881659">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -515,10 +543,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="318" y="205" width="715" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1583031452594" />
-    <state x="446" y="146" width="840" height="678" key="search.everywhere.popup" timestamp="1585833332456">
+    <state x="446" y="146" width="840" height="678" key="search.everywhere.popup" timestamp="1586853466913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="446" y="146" width="840" height="678" key="search.everywhere.popup/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585833332456" />
+    <state x="446" y="146" width="840" height="678" key="search.everywhere.popup/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1586853466913" />
     <state x="446" y="146" width="840" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585140384511" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
